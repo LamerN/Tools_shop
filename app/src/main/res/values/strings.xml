@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tools shop</string>
+    <string name="logoDescription">Логотип магазина</string>
+    <string-array name="categoriesInListView">
+        <item>Дрели</item>
+        <item>Перфораторы</item>
+        <item>Болгарки</item>
+        <item>Косилки</item>
+        <item>Бетономешалки</item>
+        <item>Культиваторы</item>
+        <item>Мотоблоки</item>
+    </string-array>
+</resources>
